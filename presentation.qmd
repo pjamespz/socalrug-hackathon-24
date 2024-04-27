@@ -1,0 +1,33 @@
+---
+title: "ucimdsHackathonPres"
+format: beamer
+editor: visual
+---
+
+## AY YO
+
+Team members:
+
+Peyton Politewicz
+
+Kabir Snell
+
+Ryan Stofer
+
+Steven Yang
+
+## Where did we focus and why
+
+blahblabhalbahbalhbalhablhabl
+
+## What did we find
+
+ldkjflkajglkngalk
+
+## Demo?
+
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+print("this is a demo")
+```
